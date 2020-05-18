@@ -1,4 +1,4 @@
-let time = 1; //starts default timer at 25 minutes
+let time = 1500; //starts default timer at 25 minutes
 let workDuration = 1500;
 let restDuration = 300;
 let paused = true; //timer is not in a paused state by default
